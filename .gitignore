@@ -1,0 +1,5 @@
+auth
+*.env
+*.sqlite3
+*.cph
+db.sqlite3
